@@ -20,11 +20,11 @@ Express.js
 React.js
 Node.js
 Socket.io
-Stripe API
+Paypal API
 ## Installation
 
 * Clone the repository
-* Install dependencies using npm install
+* Install dependencies using npm install on both 
 * Create a .env file in the root directory and add the following environment variables:
 
 ```bash
@@ -32,7 +32,7 @@ Stripe API
 PORT=5000
 MONGO_URI=<your_mongodb_uri>
 JWT_SECRET=<your_jwt_secret>
-STRIPE_SECRET_KEY=<your_stripe_secret_key>
+NODE_ENV=development
 
 ```
 
@@ -48,4 +48,28 @@ STRIPE_SECRET_KEY=<your_stripe_secret_key>
 ![Screenshot (87)](https://user-images.githubusercontent.com/105654052/236002902-c0840870-760d-43a9-979a-67f8813913fb.png)
 ![Screenshot (86)](https://user-images.githubusercontent.com/105654052/236002910-ab93ada9-1ab9-4160-a32d-818f1e203ee7.png)
 ![Screenshot (85)](https://user-images.githubusercontent.com/105654052/236002913-adc0b369-0652-47bf-930c-3fb1d4ac0ffe.png)
+
+
+## Contributing
+
+Contributions are welcome! 
+If you find any bugs or want to suggest new features, please create an issue or submit a pull request.
+
+
+## Demo
+
+https://frontend-uvxf.onrender.com/
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+
+
+## Contact with me 
+email : mdariful6403@gmail.com
     
