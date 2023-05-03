@@ -39,4 +39,13 @@ STRIPE_SECRET_KEY=<your_stripe_secret_key>
 * Run the full app from the backend using npm run dev
 * Run the client using npm run client
 * Open http://localhost:3000 in your browser
+
+
+# SCREENSHORTS
+
+![Screenshot (84)](https://user-images.githubusercontent.com/105654052/236002876-0ae2dce1-84f1-4a00-aa90-7f8001dcfa4f.png)
+![Screenshot (88)](https://user-images.githubusercontent.com/105654052/236002893-75af3c90-248a-4111-b709-6eeb8f6ddaeb.png)
+![Screenshot (87)](https://user-images.githubusercontent.com/105654052/236002902-c0840870-760d-43a9-979a-67f8813913fb.png)
+![Screenshot (86)](https://user-images.githubusercontent.com/105654052/236002910-ab93ada9-1ab9-4160-a32d-818f1e203ee7.png)
+![Screenshot (85)](https://user-images.githubusercontent.com/105654052/236002913-adc0b369-0652-47bf-930c-3fb1d4ac0ffe.png)
     
